@@ -15,7 +15,7 @@
 
 - Passionate about exploring new horizons in the world of programming.
 - Fascinated by the art of coding and web creation.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/18BVE2EuatBcJiPzUMZESsyf_8JvNfpsq/view?usp=sharing).
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1IBgZEHyNEChJQ3bONDXrW_lF1rQEQsYn/view?usp=sharing).
 - Connect with me: <span style="margin-left: 5px;">
   <a href="https://www.linkedin.com/in/wascharapong-phumoon" style="text-decoration: none; color: #0077b5; font-weight: bold;">
     LinkedIn Profile
